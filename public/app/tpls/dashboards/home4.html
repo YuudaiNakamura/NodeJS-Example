@@ -1,0 +1,126 @@
+<div class="row">
+	<div class="col-sm-12">
+
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title">Search Item Data</h3>				
+			</div>
+			<div class="panel-body" ng-controller="Home4Ctrl">
+
+				<div class="input-group"> 
+			       	<input class="form-control no-right-border form-focus-purple" type="text" id="" name="" placeholder="Enter ITEM's refID..." ng-model="itemID">
+					<span class="input-group-btn"> 
+						<button class="btn btn-purple" type="button" ng-click="SearchItem();">Search</button> 
+					</span> 
+				</div>
+
+				<br><br>
+				<form style="display:none" role="form" class="form-horizontal" id="item_data">					
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-1">Name</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-1" placeholder="" ng-model="name">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-2">RefID</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-2" placeholder="" ng-model="refID">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-3">Description</label>
+
+						<div class="col-sm-10">
+							<textarea class="form-control autogrow" cols="5" id="field-3" placeholder="" ng-model="description"></textarea>
+						</div>
+					</div>		
+					
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-4">Price</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-4" placeholder="" ng-model="price">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-5">Link</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-5" placeholder="" ng-model="link">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-6">Store Name</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-6" placeholder="" ng-model="store_name">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-7">Thumbnail</label>
+
+						<div class="col-sm-10">
+							<input type="file" class="form-control" id="thumbnail" >
+						</div>
+					<!--
+						<div>
+							<img style="display:none" src="" id="thumbnail_img"/>
+						</div>
+					-->
+					</div>
+
+					<div class="form-group-separator"></div>
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-8">Brand</label>
+
+						<div class="col-sm-10">
+							<input type="text" class="form-control" id="field-8" placeholder="" ng-model="brand">
+						</div>
+					</div>
+
+					<div class="form-group-separator"></div>	
+
+					<div class="form-group">
+						<label class="col-sm-2 control-label" for="field-9">Hashtags</label>
+
+						<div class="col-sm-10">							
+							<input type="text" class="form-control" id="tagsinput-1" data-role="tagsinput" ng-model="hashtags" tagsinput />
+						</div>
+					</div>	
+
+					<div class="modal-footer">						
+						<button type="button" class="btn btn-info btn-single" ng-click="updateItem()">Update Item</button>
+						<button type="button" class="btn btn-warning " ng-click="removeItem()">Remove Item</button>
+					</div>
+
+				</form>
+
+			</div>
+		</div>
+
+	</div>
+</div>

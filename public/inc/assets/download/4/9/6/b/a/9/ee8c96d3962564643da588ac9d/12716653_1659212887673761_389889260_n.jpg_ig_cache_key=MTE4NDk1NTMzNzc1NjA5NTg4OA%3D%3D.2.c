@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page non trouvée | Histoiredeuxsoeurs</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://www.histoiredeuxsoeurs.com/xmlrpc.php">
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+<script src="http://54.191.85.147:8080/producttaggingtool.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Histoiredeuxsoeurs &raquo; Flux" href="http://www.histoiredeuxsoeurs.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Histoiredeuxsoeurs &raquo; Flux des commentaires" href="http://www.histoiredeuxsoeurs.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.histoiredeuxsoeurs.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='penscratch-style-css'  href='http://www.histoiredeuxsoeurs.com/wp-content/themes/penscratch/style.css?ver=4.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='penscratch-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab:300,400,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.histoiredeuxsoeurs.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_image_widget-css'  href='http://www.histoiredeuxsoeurs.com/wp-content/plugins/jetpack/modules/widgets/image-widget/style.css?ver=20140808' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.histoiredeuxsoeurs.com/wp-content/plugins/jetpack/css/jetpack.css?ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='smp_style-css'  href='http://www.histoiredeuxsoeurs.com/wp-content/plugins/wp-super-popup//colorbox.css?ver=1344124552' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/plugins/wp-super-popup//jquery.colorbox-min.js?ver=1351787403'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/plugins/wp-super-popup//jquery.utils-min.js?ver=1489118711'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var smp_vars = {"cookie_id":"mycookie","cookie_num_visits":"50","show_mode":"1","popup_url":"http:\/\/www.facebook.com\/plugins\/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fhistoiredeuxsoeurs&width=300&height=258&colorscheme=light&show_faces=true&header=false&stream=false&show_border=true","load_mode":"1","page_content_id":"","popup_width":"350","popup_height":"300","popup_opacity":"0.5","popup_speed":"700","overlay_close":"true","popup_delay":"2000","cookie_duration":"2","ajaxurl":"http:\/\/www.histoiredeuxsoeurs.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/plugins/wp-super-popup//wp-super-popup.js?ver=842092664'></script>
+<link rel='https://api.w.org/' href='http://www.histoiredeuxsoeurs.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.histoiredeuxsoeurs.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.histoiredeuxsoeurs.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.4.2" />
+
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//s1.wp.com'>
+<link rel='dns-prefetch' href='//s2.wp.com'>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<link rel="icon" href="http://i2.wp.com/www.histoiredeuxsoeurs.com/wp-content/uploads/2015/06/vF-copie-55832237v1_site_icon.png?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="http://i2.wp.com/www.histoiredeuxsoeurs.com/wp-content/uploads/2015/06/vF-copie-55832237v1_site_icon.png?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://i2.wp.com/www.histoiredeuxsoeurs.com/wp-content/uploads/2015/06/vF-copie-55832237v1_site_icon.png?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="http://i2.wp.com/www.histoiredeuxsoeurs.com/wp-content/uploads/2015/06/vF-copie-55832237v1_site_icon.png?fit=270%2C270" />
+</head>
+
+<body class="error404">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Aller au contenu principal</a>
+	<header id="masthead" class="site-header" role="banner">
+		<div class="site-branding">
+						<h1 class="site-title"><a href="http://www.histoiredeuxsoeurs.com/" rel="home">Histoiredeuxsoeurs</a></h1>
+			<h2 class="site-description">Marine&amp;Coralie, deux soeurs en une.</h2>
+		</div>
+
+		<nav id="site-navigation" class="main-navigation" role="navigation">
+			<button class="menu-toggle">Menu</button>
+			<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu"><li id="menu-item-1613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1613"><a href="http://www.histoiredeuxsoeurs.com/contact/">Contact</a></li>
+<li id="menu-item-1614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1614"><a href="http://www.histoiredeuxsoeurs.com/follow-us/">Suivez-nous</a></li>
+<li id="menu-item-1615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1615"><a href="http://www.histoiredeuxsoeurs.com/vide-dressing/">Vide-dressing</a></li>
+<li id="menu-item-2637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2637"><a href="http://www.histoiredeuxsoeurs.com/category/automne-2015/">Automne 2015</a></li>
+<li id="menu-item-2638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2638"><a href="http://www.histoiredeuxsoeurs.com/category/hiver-2015/">Hiver 2015</a></li>
+<li id="menu-item-1620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1620"><a href="http://www.histoiredeuxsoeurs.com/category/street-style/">Street styles</a></li>
+<li id="menu-item-1618" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1618"><a href="http://www.histoiredeuxsoeurs.com/category/blogobulle/">Blogobulle</a></li>
+<li id="menu-item-1621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1621"><a href="http://www.histoiredeuxsoeurs.com/category/travels/">Travels</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+					<a href="http://www.histoiredeuxsoeurs.com/" rel="home">
+				<img class="custom-header" src="http://www.histoiredeuxsoeurs.com/wp-content/uploads/2015/02/cropped-cropped-vF-copie1.jpg" width="937" height="449" alt="">
+			</a>
+		
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oups ! Cette page est introuvable.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec recherche&nbsp;?</p>
+
+					<form role="search" method="get" class="search-form" action="http://www.histoiredeuxsoeurs.com/">
+				<label>
+					<span class="screen-reader-text">Rechercher&nbsp;:</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+				</label>
+				<input type="submit" class="search-submit" value="Rechercher" />
+			</form>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+			<a href="http://wordpress.org/">Fièrement propulsé par WordPress</a>
+			<span class="sep"> ~ </span>
+			Thème Penscratch par <a href="https://wordpress.com/themes/" rel="designer">WordPress.com</a>.		</div><!-- .site-info -->
+			</footer><!-- #colophon -->
+</div><!-- #page -->
+
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201607'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Febaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/themes/penscratch/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-content/themes/penscratch/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.histoiredeuxsoeurs.com/wp-includes/js/wp-embed.min.js?ver=4.4.2'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201607.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.9.1',blog:'84698059',post:'0',tz:'1',srv:'www.histoiredeuxsoeurs.com'} ]);
+	_stq.push([ 'clickTrackerInit', '84698059', '0' ]);
+</script>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,148 @@
+<script type="text/ng-template" id="newmodal">
+	<div class="modal-header">
+        <h3 class="modal-title">TAG ITEM TO THIS LOCATION:       ({{x_pos}} , {{y_pos}}) </h3>
+    </div>
+    <div class="modal-body">
+    	<div class="input-group"> 
+	       	<input class="form-control no-right-border form-focus-purple" type="text" id="" name="" placeholder="Enter ITEM's refID..." ng-model="itemID">
+			<span class="input-group-btn"> 
+				<button class="btn btn-purple" type="button" ng-click="SearchItem();">Search</button> 
+			</span> 
+		</div>
+
+		<br><br>
+		<img ng-src={{thumbnail}} id="thumbnail"/>
+
+		<br><br>
+    	<div id="item_data" style="display:none">
+	    	<h3>ITEM DATA</h3>
+	    	NAME: {{name}}
+	    	<br>
+	    	refID: {{refID}}
+	    	<br>
+	    	Description: {{description}}
+	    	<br>
+	    	Price: {{price}}
+	    	<br>
+	    	Link: {{link}}
+	    	<br>
+	    	Store Name:{{store_name}}
+	    	<br>
+	    	Brand: {{brand}}
+	    	<br>
+	    	Hashtags: {{hashtags}}
+	    	<br><br><br>
+	    	<div class="form-group">
+				<label class="col-sm-2 control-label">Select Format</label>
+
+				<div class="col-sm-10">
+					<select class="form-control" id="format_select">
+						<option value="1" selected="selected">Format 1</option>
+						<option value="2">Format 2</option>
+						<option value="3">Format 3</option>
+					</select>
+				</div>
+			</div>
+	    </div>
+    </div>
+    <div class="modal-footer">    	
+        <button class="btn btn-primary" type="button" ng-click="ok()">ADD ITEM</button>
+        <button class="btn btn-warning" type="button" ng-click="cancel()">Cancel</button>
+    </div>
+</script>
+
+<script type="text/ng-template" id="editmodal">
+	<div class="modal-header">
+        <h3 class="modal-title">MOVE ITEM TO :         ({{new_x}} , {{new_y}})</h3>
+    </div>
+    <div class="modal-body">
+
+		<img ng-src={{itemInfo.image_url}} id="thumbnail"/>
+
+		<br><br>
+    	<div>
+	    	<h3>ITEM DATA</h3>
+	    	NAME: {{itemInfo.title}}
+	    	<br>
+	    	Price: {{itemInfo.price}}
+	    	<br>
+	    	Link: {{itemInfo.cart_url}}
+	    </div>
+    </div>
+    <div class="modal-footer">    	
+        <button class="btn btn-primary" type="button" ng-click="update()">UPDATE ITEM</button>
+        <button class="btn btn-warning" type="button" ng-click="remove()">REMOVE ITEM</button>
+    </div>
+</script>
+
+
+<div class="row" ng-controller="ImageListCtrl">
+	<div class="col-sm-6">
+	
+		<!-- Table Model 2 -->
+		<strong>Image List</strong>
+		
+		<table class="table table-model-2 table-hover">
+			<thead>
+				<tr>
+					<th>No</th>
+					<th>Image ID</th>
+					<th>Actions</th>
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr ng-repeat="image in imageArray track by $index">
+					<td>{{$index+1}}</td>
+					<td>{{image._id}}</td>
+					<td>
+						<a href="" class="btn btn-secondary btn-sm btn-icon icon-left" ng-click="image_clicked($index);">
+							Edit
+						</a>
+					</td>
+				</tr>							
+			</tbody>
+		</table>
+	
+	</div>
+
+	<div style="display:none" id="imgEdit" class="col-sm-6">
+		<h3>Image ID: {{imageData._id}}</h3>
+		
+		<div id="image-container">
+			<img id="back-image" ng-src={{imageData.image_urls[0]}} width={{imageData.image_width}} height={{imageData.image_height}} ng-click="openModal('newmodal', 'lg');" />
+			<img ng-repeat="item in itemDataArray track by $index" src="http://localhost:8080/assets/images/product.png" width=35 height=30 style="position: absolute; top: {{item.y}}px; left: {{item.x}}px; z-index:9999;" id="item_{{$index}}" ng-draggable='dragOptions' ng-click="openEditModal($index, 'editmodal', 'lg');"/>
+		</div>
+
+		<br>
+
+		<h3>IMAGE'S DATA</h3>
+		<div>
+			WIDTH: {{imageData.image_width}}
+			<br>
+			HEIGHT: {{imageData.image_height}}
+			<br>
+			SIZE: {{imageData.image_size}} Byte
+		</div>
+
+		<br>
+
+		<h3>IMAGE'S PAGE URLS</h3>
+		<div ng-repeat="pageURL in imageData.page_urls">
+			<a href={{pageURL}} class="link"> {{pageURL}} </a>
+		</div>
+
+		<br>
+
+		<h3>IMAGE'S IMAGE URLS</h3>
+		<div ng-repeat="imageURL in imageData.image_urls">
+			<a href={{imageURL}}> {{imageURL}} </a>
+		</div>
+
+		<br>
+
+		<button class="btn btn-danger" ng-click="Remove();">REMOVE THIS IMAGE</button>
+	</div>
+					
+</div>
+

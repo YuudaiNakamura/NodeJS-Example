@@ -1,0 +1,98 @@
+.container {
+	width: 960px;
+	margin-top: 15px;
+}
+
+#breadcrumbs .breadcrumb {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+#table-publishers, #table-profile, #vignettes-img {
+	margin-top: 30px;
+}
+
+.glyphicon-flag {
+	color : #337ab7;
+}
+
+.copyright {
+	text-align: center;
+	position: relative;
+	color: #CCC;
+	font-size: 10px;
+}
+
+.profile-page-title:hover {
+	cursor: pointer;
+	color: #337ab7;
+}
+
+.badge:hover {
+	cursor: pointer;
+	background-color: #337ab7;
+}
+
+.badge, .badge:hover, .badge:active {
+	outline: none;
+}
+
+.article-img img {
+	max-width: 100px;
+}
+
+.article-img img:hover {
+	cursor: pointer;
+	opacity: 0.5;
+}
+
+#article-tbody .article-link {
+	padding-top: 30px;
+}
+
+#article-tbody .article-active {
+	padding-top: 30px;
+}
+
+#article-tbody .article-status {
+	padding-top: 40px;
+}
+
+.list-urls {
+	list-style: none;
+	padding-left: 8px;
+}
+
+.img-vignettes h5 {
+	padding-left: 15px;
+}
+
+.activate-tags {
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.img-copy:hover {
+	cursor: copy;
+}
+
+.btn-add {
+	position: absolute;
+	top: 28px;
+	left: 37px;
+}
+
+.modal-img {
+	margin-top: 6px;
+}
+
+.modal-content .modal-header {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#modal-table {
+	margin-bottom: 0px;
+}
